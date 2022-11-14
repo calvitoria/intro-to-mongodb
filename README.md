@@ -41,3 +41,8 @@ This are the tasks developed in this project:
 7 - Return the `name` and `sold` of the snacks that have been `sold` with an amount other than `50` and where the `tags` field does not exist | :heavy_check_mark:
 8 - Delete the snacks with less than `50` `likes` and return the `name` of the snacks left in the bank | :heavy_check_mark:
 9 - Return the `name` of all snacks that have `calories` below `500` | :heavy_check_mark:
+
+
+<div>
+   <img align="center" alt="capa" src="https://user-images.githubusercontent.com/95686401/201725174-cbebb21b-7951-4231-a898-ce52503c459e.png" />
+</div>
