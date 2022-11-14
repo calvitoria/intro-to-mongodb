@@ -1,9 +1,13 @@
+<div style="display: inline_block">    
+  <img align="right" alt="todo list"  width="130px" src="https://media0.giphy.com/media/tAjb5pyCEBhEb8jWxC/giphy.gif?cid=ecf05e473ujrk5m96tz6dagzpdxct8wq48nc1w9e9hud8h35&rid=giphy.gif&ct=s" />   
+</div>
+
 # intro-to-mongodb
-My first mongoDB project. The goal was to develop queries to create, update, delete and read data based on a hamburguer chain.
+My first mongoDB project. The goal was to develop queries to create, update, delete and read data based on a hamburguer chain. 
 
 This are the tasks developed in this project: 
 
-*Nome* | *Avaliação*
+*Task* | *status*
 --- | :---:
 1 - Return the quantity of `products` | :heavy_check_mark:
 10 - return the `name` of the hamburguers that have `proteínas` (protein) greater or equal to `30` and less or equal than `40` | :heavy_check_mark:
